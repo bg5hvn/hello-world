@@ -1,2 +1,5 @@
-# hello-world
 bg5hvn-learning-github
+语音转文字
+目标：实现民航甚高频通信语音转文字
+自动化处理
+搜索关键字后突出显示文本内容
